@@ -42,7 +42,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Drag and drop item in main story is difficult.
+- Source code organization is not good.
+- Objects have many properties.
+- Xcode auto build is slow and unstable.
+- Many features are not enough time to understand clearly.
 
 ## License
 
